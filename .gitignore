@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+Lib/
+Include/
+Scripts/
+pyvenv.cfg
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Dataset / training notebooks
+dataset/
+*.ipynb
+
+# Logs
+*.log
+
+# OS / IDE
+.DS_Store
+desktop.ini
+.vscode/
+.idea/
